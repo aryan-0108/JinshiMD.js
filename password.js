@@ -1,12 +1,12 @@
 {
 
-  "secretCode": "TradzSigma",
+  "secretCode": "Violet",
 
-  "description": "Jinshi New Meta", 
+  "description": "KenKaneki", 
 
-  "lastUpdated": "14/05/2025",
+  "lastUpdated": "29/05/2025",
 
-  "author": "TradzID", 
+  "author": "Prince", 
 
   "status": "Active",
 
